@@ -14,8 +14,8 @@ row_pins = ["P1_11", "P1_12", "P1_13", "P1_14"]
 # row2col = true
 
 [layout]
-rows = 5
-cols = 4
+rows = 4
+cols = 5
 layers = 2
 matrix_map = """
 (0,0) (0,1) (0,2) (0,3)
